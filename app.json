@@ -1,7 +1,7 @@
 {
   "name": "Export to Excel",
   "description": "Export to Excel",
-  "repository": "https://github.com/wallabyway/bim360appstore-xls-exporter",
+  "repository": "https://github.com/skono0/bimappstore-model-excel.git",
   "logo": "https://avatars0.githubusercontent.com/u/8017462?v=3&s=200",
   "keywords": [
     "express",
